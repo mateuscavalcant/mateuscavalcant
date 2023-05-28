@@ -3,7 +3,7 @@ Sou desenvolvedor de sistemas Jr. Atualmente, estou em busca de novas oportunida
 
 - 🧠 Busco aprender a criar soluções inovadoras
 - 🤖 Áreas de foco: Back-end, automação de processos, estrutura e análise de dados, sistemas SGBDs
-- 📁 Bancos de dados: MySQL, SQLite
+- 📁 Bancos de dados: MySQL, PostgreSQL
 - 🖥️ Linguagens de programação: Python, Go
 
 ### Tecnologias
@@ -14,7 +14,7 @@ Sou desenvolvedor de sistemas Jr. Atualmente, estou em busca de novas oportunida
 <img width='50' height='50'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <div>
           
 
