@@ -1,5 +1,5 @@
 ## Olá, meu nome é Mateus
-Sou desenvolvedor de sistemas Jr. Atualmente, estou em busca de novas oportunidades e me dedicando ao aprimoramento contínuo das minhas habilidades de desenvolvimento.
+Sou desenvolvedor de sistemas. Atualmente, estou em busca de novas oportunidades e me dedicando ao aprimoramento contínuo das minhas habilidades de desenvolvimento.
 
 - 🧠 Busco aprender a criar soluções inovadoras
 - 🤖 Áreas de foco: Back-end, automação de processos, estrutura e análise de dados, sistemas SGBDs
