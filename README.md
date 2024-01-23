@@ -1,5 +1,5 @@
 ## Olá, meu nome é Mateus
-Sou desenvolvedor de sistemas. Atualmente, estou em busca de novas oportunidades e me dedicando ao aprimoramento contínuo das minhas habilidades como desenvolvedor web.
+Sou desenvolvedor de sistemas. Atualmente, estou em busca de novas oportunidades e me dedicando ao aprimoramento contínuo das minhas habilidades como desenvolvedor.
 
 
 
