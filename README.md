@@ -1,8 +1,21 @@
-## Hi there, I’m Mateus
-I like building apps using Go, Python, JavaScript and a few other languages and tools.
-- 🔭 I have an interest in software development.
-- 🔗 My personal portfolio: [mateus.dev](https://mateus-cavalcante.onrender.com/portfolio)
-- 📫 How to reach me: mateuscavalcant7@gmail.com
+<div align="center">
+
+# Hi, guys 👋
+
+Welcome to my page!
+
+*<small>I'm Mateus. I have been studying systems development for more than 2 years. I have a strong interest in software development. I enjoy building apps using Go, Python, JavaScript, and a few other languages and tools.</small>*
+
+
+
+## How to reach me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscavalcant7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-cavalcante-0a39811a2/)
+
+</div>
+
+
+
 
 ### Languages
 
@@ -12,6 +25,19 @@ I like building apps using Go, Python, JavaScript and a few other languages and 
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+
+### Technologies & Frameworks
+
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
+[![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=00599C)](https://gin-gonic.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
+
+
+
 
 
 
