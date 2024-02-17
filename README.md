@@ -33,4 +33,4 @@ Welcome to my page!
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=donut&hide=html,css&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=compact&hide=html,css&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
