@@ -31,7 +31,9 @@ Welcome to my page!
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
 [![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=00599C)](https://gin-gonic.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MySQL](https://img.shields.io/badge/JQuery-000000?style=for-the-badge&logo=jquery&logoColor=white)](https://www.mysql.com/)
 [![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=donut&hide=html,css&text_color=ffffff&title_color=ffffff&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
