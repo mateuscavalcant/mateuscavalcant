@@ -27,8 +27,9 @@ Welcome to my page!
 
 ### Technologies & Frameworks
 
-[![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=00599C)](https://gin-gonic.com/)
+[![Gin-Gonic](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=00ADD8)](https://gin-gonic.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
