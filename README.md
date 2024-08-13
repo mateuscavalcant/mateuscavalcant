@@ -61,7 +61,7 @@ func GetDegree() string {
 	return "Technologist in Systems Analysis and Development / 2024"
 }
 
-func GetLanguage() []string {
+func GetLanguages() []string {
 	return []string{
 		"Go",
 		"Java",
