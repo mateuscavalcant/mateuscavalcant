@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 # Hi, guys 👋
@@ -44,4 +45,37 @@ Welcome to my page!
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=donut&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 
+## Hi, guys 👋
+
+```go
+package MateusCavalcante
+
+func GetAboutMe() string {
+	return "hi, I'm Mateus. I am interested in the area of software development. I like to listen to music in my spare time"
+          
+}
+
+func GetDegree() string {
+	return "Technologist in Systems Analysis and Development / 2024"
+}
+
+func GetLanguage() []string {
+	return []string{
+		"Go",
+		"Java",
+		"Python",
+		"JavaScript",
+	}
+}
+
+func GetFrameworks() []string {
+	return []string{
+		"Gin Gonic",
+		"Spring Boot",
+		"Flask",
+		"React",
+		"MySQL", 
+	}
+}
