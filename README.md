@@ -47,14 +47,14 @@ Welcome to my page!
 
 -->
 
-## Hi, guys 👋
+### Hi there, I'm Mateus 👋
 
 ```go
 package MateusCavalcante
 
 func GetAboutMe() string {
-	return "hi, I'm Mateus. I am interested in the area of software development. I like to listen to music in my spare time"
-          
+	return "I have interested in software development and I like to listen to music in my spare time"
+               
 }
 
 func GetDegree() string {
