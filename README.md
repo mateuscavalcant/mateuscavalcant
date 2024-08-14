@@ -50,7 +50,7 @@ Welcome to my page!
 ### Hi there, I'm Mateus 👋
 
 ```go
-package MateusCavalcante
+package Mateus
 
 func GetAboutMe() string {
 	return "I have interested in software development and I like to listen to music in my spare time"
