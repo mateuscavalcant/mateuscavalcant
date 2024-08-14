@@ -79,3 +79,10 @@ func GetFrameworks() []string {
 		"MySQL", 
 	}
 }
+
+
+func GetContact() map[string]string {
+	return map[string]string{
+		"e-mail": "mateuscavalcant7@gmail.com",
+	}
+}
