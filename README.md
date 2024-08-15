@@ -70,7 +70,7 @@ func GetLanguages() []string {
 	}
 }
 
-func GetFrameworks() []string {
+func GetTools() []string {
 	return []string{
 		"Gin Gonic",
 		"Spring Boot",
