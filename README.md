@@ -88,4 +88,3 @@ func GetContact() map[string]string {
 }
 
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=donut&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
