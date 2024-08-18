@@ -86,3 +86,6 @@ func GetContact() map[string]string {
 		"e-mail": "mateuscavalcant7@gmail.com",
 	}
 }
+
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=donut&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
