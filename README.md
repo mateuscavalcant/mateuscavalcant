@@ -53,12 +53,8 @@ Welcome to my page!
 package Mateus
 
 func GetAboutMe() string {
-	return "I have interested in software development and I like to listen to music in my spare time"
+	return "Hi there, I'm Mateus. I have interested in software development"
                
-}
-
-func GetDegree() string {
-	return "Technologist in Systems Analysis and Development / 2024"
 }
 
 func GetLanguages() []string {
@@ -86,5 +82,5 @@ func GetContact() map[string]string {
 		"e-mail": "mateuscavalcant7@gmail.com",
 	}
 }
-
 ```
+
