@@ -93,7 +93,7 @@ func GetContact() map[string]string {
   Tenho 23 anos, gosto de desenvolvimento de software e de ciclismo. <br />
   
   ---
-
+### Skills
   [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.java.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-fff569?style=for-the-badge&logo=javascript&logoColor=242424)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
