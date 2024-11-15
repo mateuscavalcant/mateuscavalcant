@@ -94,8 +94,8 @@ func GetContact() map[string]string {
   
   ---
 
-  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)](https://golang.org/)
-[![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=000000)](https://openjdk.java.net/)
+  [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.java.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-fff569?style=for-the-badge&logo=javascript&logoColor=242424)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Gin-Gonic](https://img.shields.io/badge/Gin-00ADEF?style=for-the-badge&logo=gin&logoColor=000000)](https://gin-gonic.com/)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -104,7 +104,7 @@ func GetContact() map[string]string {
 
 
   ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&text_color=B3EFFF&layout=donut&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&layout=donut&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
