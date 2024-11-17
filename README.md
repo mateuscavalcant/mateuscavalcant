@@ -103,9 +103,6 @@ func GetContact() map[string]string {
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
-  ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&text_color=a1a1a1&bg_color=00000000&layout=donut&hide=html,css&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
