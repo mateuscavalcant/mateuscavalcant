@@ -98,7 +98,7 @@ func GetContact() map[string]string {
 ### Skills
   [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.java.net/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-fff569?style=for-the-badge&logo=javascript&logoColor=242424)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Gin-Gonic](https://img.shields.io/badge/Gin-00ADEF?style=for-the-badge&logo=gin&logoColor=000000)](https://gin-gonic.com/)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
