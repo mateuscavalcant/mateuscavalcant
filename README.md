@@ -99,7 +99,7 @@ func GetContact() map[string]string {
   
   ---
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=go,java,javascript,spring,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,javascript,typescript,spring,react,mysql)](https://skillicons.dev)
 
 
 
