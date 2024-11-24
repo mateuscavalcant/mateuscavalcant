@@ -93,9 +93,8 @@ func GetContact() map[string]string {
 
 <div align="center">
 
-  ## Olá, me chamo Mateus
-  
-  Tenho 23 anos, gosto de desenvolvimento de software e de ciclismo. <br />
+  ## Hi, I'm Mateus
+  I'm 23 years old, I like software development and cycling. <br />
   
   ---
 ### My Skills
