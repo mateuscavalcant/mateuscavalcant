@@ -104,7 +104,7 @@ func GetContact() map[string]string {
 
 
   ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&text-color=a9a9a9&hide=html,css&layout=donut&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&icons=true&bg_color=00000000&hide=html,css,scss&layout=donut&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
