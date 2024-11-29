@@ -93,7 +93,7 @@ func GetContact() map[string]string {
 
 <div align="center">
 
-  ## Hi, I'm Mateus
+  ## 👋 Hi, I'm Mateus
   I'm 23 years old, I like software development and cycling. <br />
   
   ---
