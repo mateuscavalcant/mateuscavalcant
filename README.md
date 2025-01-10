@@ -94,7 +94,7 @@ func GetContact() map[string]string {
 <div align="center">
 
   ## Hi, guys 👋
-  I'm Mateus, I like software development and cycling. <br />
+  I'm Mateus, I like software development and cycling <br />
   
   ---
 ### My Skills
