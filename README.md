@@ -90,7 +90,7 @@ func GetContact() map[string]string {
 ```
 
 -->
-
+<!--
 <div align="center">
 
   ## Hi, guys 👋
@@ -107,5 +107,6 @@ func GetContact() map[string]string {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscavalcant&hide=html,css&bg_color=00000000&text_color=b3ccde&layout=donut&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+-->
 
 
